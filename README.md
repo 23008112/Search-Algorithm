@@ -99,7 +99,7 @@ if(result==-1):
 else:
     print(arr)
     print("Element found at index: ",result)
-    ```
+ ```
 ## Sample Input and Output
 ### linear search
 ![linear](https://github.com/23008112/Search-Algorithm/assets/138972470/fb99aec8-47a0-48ff-9aea-c0d2d4ac73cd)
